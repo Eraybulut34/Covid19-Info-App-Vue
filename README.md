@@ -1,4 +1,4 @@
-# eraybulut2
+# covid-19-info-app-vue
 
 ![home](https://user-images.githubusercontent.com/88948599/145277376-bf17139b-bbd9-44f4-93fc-ace2eaefac97.jpg)
 
